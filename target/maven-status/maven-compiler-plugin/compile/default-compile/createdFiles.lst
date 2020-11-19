@@ -1,0 +1,7 @@
+com\url\shortening\controller\ShortenRequest.class
+com\url\shortening\common\IDConverter.class
+com\url\shortening\controller\MyController.class
+com\url\shortening\service\URLConverterService.class
+com\url\shortening\common\URLValidator.class
+com\url\shortening\repository\URLRepository.class
+com\url\shortening\UrlshorteningApplication.class
